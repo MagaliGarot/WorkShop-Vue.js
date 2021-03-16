@@ -1,4 +1,4 @@
-# 📽️ WORKSHOP VUE.J 
+# 📽️ WORKSHOP VUE.JS 
 ## 📋 Subject : To do list 
 
 # 🔗 Lien vers le projet : 
