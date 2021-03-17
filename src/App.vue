@@ -49,8 +49,8 @@ export default {
   }
 
   #app{
-    height: 820px;
-    width: 700px;
+    height: 40%;
+    width: 59%;
     text-align:center;
     background-color: rgb(11, 54, 66);
     margin-top: 50px;
