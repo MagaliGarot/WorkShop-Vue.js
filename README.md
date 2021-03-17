@@ -2,7 +2,7 @@
 ## 📋 Subject : To do list 
 
 # 🔗 Lien vers le projet : 
-https://60508a6f43235694d09e4144--compassionate-mayer-d221a2.netlify.app/
+https://6051bec048e6040007efe3d1--compassionate-mayer-d221a2.netlify.app/
 
 # 🗒Le projet :
 

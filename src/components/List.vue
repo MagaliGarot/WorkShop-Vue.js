@@ -5,14 +5,14 @@
 
         <div v-if="!isEditing">
             <!-- ! différent de -->
-            <input type='text' v-model="todo">
+            <input class="typeInput" type='text' v-model="todo">
             <!-- V-MODEL : v-model crée une liaison de données sur les champs de formulaire 
             (input, select ou textarea) -->
             <input class="typebutton" type='submit' value="add" @click="storeTodo">
         </div>
      
         <div v-else>
-            <input type='text' v-model="todo">
+            <input class="typeInput" type='text' v-model="todo">
             <input class="typebutton" type='submit' value="update" @click="updateTodo">
         </div>
 
@@ -110,6 +110,10 @@ export default {
         font-size: 1.5rem;
         font-family: 'IBM Plex Mono', monospace;
         color: white;
+    }
+
+    .typeInput{
+        width: 60%;
     }
 
 </style>

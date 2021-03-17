@@ -44,7 +44,7 @@ export default {
 
   body{
     background-image:url("assets/pixabay.jpg");
-    background-repeat: no-repeat;
+    /* background-repeat: no-repeat; */
     background-size: cover;
   }
 
